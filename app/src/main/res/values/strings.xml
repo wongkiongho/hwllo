@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name ="my_name">Wong Kiong Ho</string>
+
+    <string name="btn_name">Show</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+</resources>
